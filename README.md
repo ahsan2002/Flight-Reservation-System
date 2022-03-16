@@ -1,2 +1,2 @@
 # Flight Reservation System
-Using C++
+This is my semester group project Using C++
